@@ -1,3 +1,7 @@
+"""
+Made by Rafli
+Please dont delete this credit
+"""
 from tkinter import *
 
 root = Tk()
